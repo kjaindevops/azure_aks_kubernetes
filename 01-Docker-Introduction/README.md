@@ -9,6 +9,12 @@
   - Need more resources to handle day to day activities.
 
 - Why do we need to use Docker?
+  - **Flexible** :- Even the most complex application can be containerized.
+  - **LightWeight** :- Conatiners are very light weighted since they leverage and share the host kernel.
+  - **Portable** :- You can build locally, Deploy to cloud and run anywhere.
+  - **Loosely Coupled** :- Highly self seficient and encapsulated.
+  - **Scalable** :- Increase the number of containers anytime.
+  - **Security** :- Highly isolated.
 - What are advantages of using Docker?
 
 # Docker Architecture
@@ -19,3 +25,5 @@
 - What are Docker Images?
 - What are Docker Containers?
 - What is Docker Registry or Docker Hub?
+
+![Docker Architecture Image](https://media.geeksforgeeks.org/wp-content/uploads/20221205115118/Architecture-of-Docker.png)
