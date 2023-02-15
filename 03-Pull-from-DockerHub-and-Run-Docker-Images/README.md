@@ -24,7 +24,6 @@ Step-2: Run the simple Nginx Application container.
 docker run --name kube1 -p 80:80 --platform linux/amd64 -d  nginx
 http://localhost
 
-
 ## Step-4: List Running Containers
 ```
 docker ps
@@ -54,4 +53,3 @@ docker rm <container-name>
 docker images
 docker rmi  <image-id>
 ```
-
