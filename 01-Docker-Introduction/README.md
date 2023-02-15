@@ -55,4 +55,4 @@
 
 ![Docker Architecture Image](https://media.geeksforgeeks.org/wp-content/uploads/20221205115118/Architecture-of-Docker.png)
 
-![Docker Registery Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.octo.com%2Fen%2Fdocker-registry-first-steps%2F&psig=AOvVaw3T0g1uYRgsu-oAfBh6SHYN&ust=1676562882337000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJje7M7xl_0CFQAAAAAdAAAAABAD)
+![Docker Registery Image](https://blog.octo.com/wp-content/uploads/2014/01/Diapositive1.png)
