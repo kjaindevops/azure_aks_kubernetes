@@ -15,7 +15,7 @@ docker pull nginx
 - Copy the docker image name from Docker Hub
 ```
 docker run --name app1 -p 80:8080 -d nginx
-http://localhost/hello
+http://localhost/
 
 # For Mac with Apple Chips (use different application)
 Step-1: Install Docker with Apple Chips binary (https://docs.docker.com/desktop/mac/install/) on your mac machine
