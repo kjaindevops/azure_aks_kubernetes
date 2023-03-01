@@ -21,3 +21,11 @@
     - **Replication Controllers** :- Responsible for maintaining the correct umber of pods for every replication controller object n the system.
     - **Endpoints Controller** :- Populates the endpoints objects. (That is joins services and Pods).
     - **Service Account and Token Controller** :- Create default accounts and API Access or new namespaces.
+
+- **Cloud-Container-Manager** :-
+  - A kubernetes control plane component that embeds cloud-specific control logic.
+  - It only runs controllers that are specific to your cloud provider.
+  - On-premise kubernetes clusters will not have this component.
+  - **Node Controller** :- For checking the cloud provider to determine if a node has been deleted in the cloud after it stops responding.
+  - **Route Controller** :- For setting up routes in the underlying cloud infrastructure.
+  - **Service Controllers** :- For creating, updating and deleting cloud provider load balancer.
