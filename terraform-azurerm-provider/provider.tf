@@ -10,5 +10,5 @@ terraform {
 */
 provider "azurerm" {
   # The AzureRM provider supports authenticating using via the Azure CLI, a managed Identity and a Service Principal.
-  feature {}
+  features {}
 }
